@@ -1,4 +1,4 @@
-# **A repository containing audiobooks for the original Lord of the Rings trilogy and The Hobbit read by Phil Dragash & Bluefax.**
+# **A repo holding audiobooks for the original Lord of the Rings trilogy and The Hobbit read by Phil Dragash & Bluefax.**
 
 **NOTICE! Individual file downloads don't work on mobile and/or for some browsers! You'll have to download the portable archive and unzip it if so.**
 
